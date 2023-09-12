@@ -4,6 +4,7 @@ public class Main {
         int pricepermile=20;
         int quantity=ticketprice/pricepermile;
         System.out.println(quantity);
+        int answer=504
 
     }
     }
