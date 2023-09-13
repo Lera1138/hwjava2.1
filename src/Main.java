@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        int ticketprice=10080;
-        int pricepermile=20;
-        int quantity=ticketprice/pricepermile;
+        int ticketPrice = 10080;
+        int pricePerMile = 20;
+        int quantity = ticketPrice / pricePerMile;
         System.out.println(quantity);
-        int answer=504
+     // ответ 504
 
     }
-    }
+}
